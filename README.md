@@ -1,6 +1,10 @@
 # Building Agentic AI Systems: A Practical Guide to Architectures, Design Patterns, and Implementation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24214723.svg)](https://doi.org/10.5281/zenodo.24214723)
+
 **Sunil Javadi** · Independent Researcher · November 2026
+
+Preprint on Zenodo: [doi.org/10.5281/zenodo.24214723](https://doi.org/10.5281/zenodo.24214723)
 
 ## Abstract
 
@@ -212,6 +216,23 @@ The author used Claude (Anthropic), an AI assistant, to help draft and structure
 10. Anthropic. "Introducing the Model Context Protocol." Nov. 25, 2024. [anthropic.com](https://www.anthropic.com/news/model-context-protocol)
 11. C. E. Jimenez, J. Yang, A. Wettig, S. Yao, K. Pei, O. Press, K. Narasimhan. "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?" *ICLR*, 2024. [arXiv:2310.06770](https://arxiv.org/abs/2310.06770)
 12. K. Greshake, S. Abdelnabi, S. Mishra, C. Endres, T. Holz, M. Fritz. "Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection." *AISec '23*, 2023. [arXiv:2302.12173](https://arxiv.org/abs/2302.12173)
+
+## How to Cite
+
+> S. Javadi. "Building Agentic AI Systems: A Practical Guide to Architectures, Design Patterns, and Implementation." Zenodo preprint, Nov. 2026. doi:10.5281/zenodo.24214723
+
+```bibtex
+@misc{javadi2026agentic,
+  author       = {Javadi, Sunil},
+  title        = {Building Agentic AI Systems: A Practical Guide to Architectures, Design Patterns, and Implementation},
+  year         = {2026},
+  month        = nov,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.24214723},
+  url          = {https://doi.org/10.5281/zenodo.24214723},
+  note         = {Preprint}
+}
+```
 
 ## License
 

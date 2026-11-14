@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this guide, please cite it as below."
+title: "Building Agentic AI Systems: A Practical Guide to Architectures, Design Patterns, and Implementation"
+authors:
+  - family-names: Javadi
+    given-names: Sunil
+    affiliation: Independent Researcher
+type: article
+doi: 10.5281/zenodo.24214723
+url: "https://doi.org/10.5281/zenodo.24214723"
+repository-code: "https://github.com/suniljavadi/agentic-ai-systems-guide"
+date-released: 2026-11-14
+license: CC-BY-4.0
+keywords:
+  - agentic AI
+  - large language models
+  - LLM agents
+  - tool use
+  - ReAct
+  - Model Context Protocol
+  - prompt injection
