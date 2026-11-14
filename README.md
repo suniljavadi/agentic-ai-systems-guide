@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24214723.svg)](https://doi.org/10.5281/zenodo.24214723)
 
-**Sunil Javadi** · Independent Researcher · November 2026
+**Sunil Javadi** · Independent Researcher · [ORCID 0009-0007-1325-9336](https://orcid.org/0009-0007-1325-9336) · November 2026
 
 Preprint on Zenodo: [doi.org/10.5281/zenodo.24214723](https://doi.org/10.5281/zenodo.24214723)
 
